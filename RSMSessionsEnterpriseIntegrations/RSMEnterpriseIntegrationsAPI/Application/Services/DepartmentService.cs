@@ -103,7 +103,7 @@
             
             department.Name = string.IsNullOrWhiteSpace(departmentDto.Name) ? department.Name : departmentDto.Name;
             department.GroupName = string.IsNullOrWhiteSpace(departmentDto.GroupName) ? department.GroupName : departmentDto.GroupName;
-           
+        
             return await _departmentRepository.UpdateDepartment(department);
         }
 

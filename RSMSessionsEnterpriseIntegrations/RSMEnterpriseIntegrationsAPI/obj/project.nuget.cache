@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U576pDIa3mkis4FASRgiukNVApFX4Jw16RDUVtggqNNohNzYUlRuo0HeiHfKKv53TrgLtSO2V5opcjbxMzUJ+g==",
+  "dgSpecHash": "V8iTmfALNpCqXD7JEFCPx9GLqKfh5SS2PXMODeuH+tutUK8Wg47OcXmBqNjhXC5/RjIBXSTn2b6m7x5OLfM73w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\Enterprise Application Integration\\RSMIntegrationsAPISession\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\RSMEnterpriseIntegrationsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\API-EAI\\API-Challenge2\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\RSMEnterpriseIntegrationsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Manuel Araniva\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Manuel Araniva\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

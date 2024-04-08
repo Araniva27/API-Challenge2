@@ -3172,11 +3172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\Enterprise Application Integration\\RSMIntegrationsAPISession\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\RSMEnterpriseIntegrationsAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\API-EAI\\API-Challenge2\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\RSMEnterpriseIntegrationsAPI.csproj",
       "projectName": "RSMEnterpriseIntegrationsAPI",
-      "projectPath": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\Enterprise Application Integration\\RSMIntegrationsAPISession\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\RSMEnterpriseIntegrationsAPI.csproj",
+      "projectPath": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\API-EAI\\API-Challenge2\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\RSMEnterpriseIntegrationsAPI.csproj",
       "packagesPath": "C:\\Users\\Manuel Araniva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\Enterprise Application Integration\\RSMIntegrationsAPISession\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\obj\\",
+      "outputPath": "C:\\Users\\Manuel Araniva\\Documents\\RSM Trainee\\API-EAI\\API-Challenge2\\RSMSessionsEnterpriseIntegrations\\RSMEnterpriseIntegrationsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
