@@ -19,7 +19,7 @@ namespace RSMEnterpriseIntegrationsAPI.Infrastructure.Configurations
             builder.Property(e => e.SafetyStockLevel).IsRequired();
             builder.Property(e => e.ReorderPoint).IsRequired().HasPrecision(6,2);
             builder.Property(e => e.StandardCost).IsRequired().HasPrecision(6,2);
-            builder.Property(e => e.ListPrice).IsRequired();
+            builder.Property(e => e.ListPrice).IsRequired().HasPrecision(6,2);
             builder.Property(e => e.DaysToManufacture).IsRequired();
             builder.Property(e => e.SellStartDate).IsRequired();
 
